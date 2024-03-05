@@ -1,0 +1,14 @@
+C:\Abner\Estudos\Csharp\LargestPrimeFactor\bin\Debug\net8.0\LargestPrimeFactor.exe
+C:\Abner\Estudos\Csharp\LargestPrimeFactor\bin\Debug\net8.0\LargestPrimeFactor.deps.json
+C:\Abner\Estudos\Csharp\LargestPrimeFactor\bin\Debug\net8.0\LargestPrimeFactor.runtimeconfig.json
+C:\Abner\Estudos\Csharp\LargestPrimeFactor\bin\Debug\net8.0\LargestPrimeFactor.dll
+C:\Abner\Estudos\Csharp\LargestPrimeFactor\bin\Debug\net8.0\LargestPrimeFactor.pdb
+C:\Abner\Estudos\Csharp\LargestPrimeFactor\obj\Debug\net8.0\LargestPrimeFactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abner\Estudos\Csharp\LargestPrimeFactor\obj\Debug\net8.0\LargestPrimeFactor.AssemblyInfoInputs.cache
+C:\Abner\Estudos\Csharp\LargestPrimeFactor\obj\Debug\net8.0\LargestPrimeFactor.AssemblyInfo.cs
+C:\Abner\Estudos\Csharp\LargestPrimeFactor\obj\Debug\net8.0\LargestPrimeFactor.csproj.CoreCompileInputs.cache
+C:\Abner\Estudos\Csharp\LargestPrimeFactor\obj\Debug\net8.0\LargestPrimeFactor.dll
+C:\Abner\Estudos\Csharp\LargestPrimeFactor\obj\Debug\net8.0\refint\LargestPrimeFactor.dll
+C:\Abner\Estudos\Csharp\LargestPrimeFactor\obj\Debug\net8.0\LargestPrimeFactor.pdb
+C:\Abner\Estudos\Csharp\LargestPrimeFactor\obj\Debug\net8.0\LargestPrimeFactor.genruntimeconfig.cache
+C:\Abner\Estudos\Csharp\LargestPrimeFactor\obj\Debug\net8.0\ref\LargestPrimeFactor.dll

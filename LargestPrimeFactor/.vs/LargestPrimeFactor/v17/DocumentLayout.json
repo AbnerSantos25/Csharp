@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Abner\\Estudos\\Csharp\\LargestPrimeFactor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08782598-DFC5-4422-B600-42FA97234F73}|LargestPrimeFactor.csproj|c:\\abner\\estudos\\csharp\\largestprimefactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08782598-DFC5-4422-B600-42FA97234F73}|LargestPrimeFactor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08782598-DFC5-4422-B600-42FA97234F73}|LargestPrimeFactor.csproj|c:\\abner\\estudos\\csharp\\largestprimefactor\\fatorprimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08782598-DFC5-4422-B600-42FA97234F73}|LargestPrimeFactor.csproj|solutionrelative:fatorprimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FatorPrimo.cs",
+              "DocumentMoniker": "C:\\Abner\\Estudos\\Csharp\\LargestPrimeFactor\\FatorPrimo.cs",
+              "RelativeDocumentMoniker": "FatorPrimo.cs",
+              "ToolTip": "C:\\Abner\\Estudos\\Csharp\\LargestPrimeFactor\\FatorPrimo.cs",
+              "RelativeToolTip": "FatorPrimo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:15:43.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Abner\\Estudos\\Csharp\\LargestPrimeFactor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Abner\\Estudos\\Csharp\\LargestPrimeFactor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:13:40.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

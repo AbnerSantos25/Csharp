@@ -1,0 +1,14 @@
+C:\Abner\Estudos\Csharp\MaiorProdutoPolíndromo\MaiorProdutoPolíndromo\bin\Debug\net8.0\MaiorProdutoPolíndromo.exe
+C:\Abner\Estudos\Csharp\MaiorProdutoPolíndromo\MaiorProdutoPolíndromo\bin\Debug\net8.0\MaiorProdutoPolíndromo.deps.json
+C:\Abner\Estudos\Csharp\MaiorProdutoPolíndromo\MaiorProdutoPolíndromo\bin\Debug\net8.0\MaiorProdutoPolíndromo.runtimeconfig.json
+C:\Abner\Estudos\Csharp\MaiorProdutoPolíndromo\MaiorProdutoPolíndromo\bin\Debug\net8.0\MaiorProdutoPolíndromo.dll
+C:\Abner\Estudos\Csharp\MaiorProdutoPolíndromo\MaiorProdutoPolíndromo\bin\Debug\net8.0\MaiorProdutoPolíndromo.pdb
+C:\Abner\Estudos\Csharp\MaiorProdutoPolíndromo\MaiorProdutoPolíndromo\obj\Debug\net8.0\MaiorProdutoPolíndromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abner\Estudos\Csharp\MaiorProdutoPolíndromo\MaiorProdutoPolíndromo\obj\Debug\net8.0\MaiorProdutoPolíndromo.AssemblyInfoInputs.cache
+C:\Abner\Estudos\Csharp\MaiorProdutoPolíndromo\MaiorProdutoPolíndromo\obj\Debug\net8.0\MaiorProdutoPolíndromo.AssemblyInfo.cs
+C:\Abner\Estudos\Csharp\MaiorProdutoPolíndromo\MaiorProdutoPolíndromo\obj\Debug\net8.0\MaiorProdutoPolíndromo.csproj.CoreCompileInputs.cache
+C:\Abner\Estudos\Csharp\MaiorProdutoPolíndromo\MaiorProdutoPolíndromo\obj\Debug\net8.0\MaiorProdutoPolíndromo.dll
+C:\Abner\Estudos\Csharp\MaiorProdutoPolíndromo\MaiorProdutoPolíndromo\obj\Debug\net8.0\refint\MaiorProdutoPolíndromo.dll
+C:\Abner\Estudos\Csharp\MaiorProdutoPolíndromo\MaiorProdutoPolíndromo\obj\Debug\net8.0\MaiorProdutoPolíndromo.pdb
+C:\Abner\Estudos\Csharp\MaiorProdutoPolíndromo\MaiorProdutoPolíndromo\obj\Debug\net8.0\MaiorProdutoPolíndromo.genruntimeconfig.cache
+C:\Abner\Estudos\Csharp\MaiorProdutoPolíndromo\MaiorProdutoPolíndromo\obj\Debug\net8.0\ref\MaiorProdutoPolíndromo.dll
