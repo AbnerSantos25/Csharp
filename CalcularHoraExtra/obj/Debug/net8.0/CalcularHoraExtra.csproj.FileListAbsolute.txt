@@ -1,0 +1,15 @@
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\bin\Debug\net8.0\CalcularHoraExtra.exe
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\bin\Debug\net8.0\CalcularHoraExtra.deps.json
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\bin\Debug\net8.0\CalcularHoraExtra.runtimeconfig.json
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\bin\Debug\net8.0\CalcularHoraExtra.dll
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\bin\Debug\net8.0\CalcularHoraExtra.pdb
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\obj\Debug\net8.0\CalcularHoraExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\obj\Debug\net8.0\CalcularHoraExtra.AssemblyInfoInputs.cache
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\obj\Debug\net8.0\CalcularHoraExtra.AssemblyInfo.cs
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\obj\Debug\net8.0\CalcularHoraExtra.csproj.CoreCompileInputs.cache
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\obj\Debug\net8.0\CalcularHoraExtra.sourcelink.json
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\obj\Debug\net8.0\CalcularHoraExtra.dll
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\obj\Debug\net8.0\refint\CalcularHoraExtra.dll
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\obj\Debug\net8.0\CalcularHoraExtra.pdb
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\obj\Debug\net8.0\CalcularHoraExtra.genruntimeconfig.cache
+C:\Abner\Estudos\Csharp\CalcularHoraExtra\obj\Debug\net8.0\ref\CalcularHoraExtra.dll
